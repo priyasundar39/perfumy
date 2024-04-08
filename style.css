@@ -1,0 +1,31 @@
+nav{
+    background-color: black;
+    color: beige;
+    padding: 20px;
+}
+h3,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+.c1{
+    margin: 20px;
+    cursor: pointer;
+}
+.c2{
+    margin: 20px;
+    cursor: pointer;
+}
+.c3{
+    margin: 20px;
+    cursor: pointer;
+}
+li:hover{
+    color: gold;
+}
+input{
+    margin-top: 20px;
+    width: 60%;
+    height: 30px;
+}
